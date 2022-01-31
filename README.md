@@ -1,5 +1,7 @@
 # Lending Club Case Study
-> Lending Club Case Study is the first case study of this course.
+Lending Club Case Study is the first case study of this course.
+In this case study, we plan to apply our knowledge of EDA into use and understand risk analytics in banking and financial services.
+It is intended to showcase how data is analyzed to minimize the risk of losing money while lending to customers.
 
 
 ## Table of Contents
@@ -11,10 +13,14 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project/case study is about helping a Consumer Finanace Company to identify the pattern of defaulters of the loan that the institution has given.
+Depending on the pattern, the institution would like to make decisions about either providing a loan or rejecting it to certain clients that may seem to 
+fall in this pattern of defaulting.
+
+The business problem that this study is intending to solve is to provide enough information to the institution th ehelp them make decisions for loan approval.
+Effectively, the institution should be able to decide if the applicant will be able to replay the loan or not. 
+
+For this purpose, the dataset used for analysis contains the information about past loan applicants and whether they defaulted or not. Studying this dataset would provide insights into the pattern of defaulters.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -42,7 +48,7 @@ Give credit here.
 
 
 ## Contact
-Created by [githubusername] - feel free to contact me!
+Created by [@githubusername] - feel free to contact me!
 
 
 <!-- Optional -->
