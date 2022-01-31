@@ -1,4 +1,4 @@
-# LendingClubCaseStudy
+# Lending Club Case Study
 > Lending Club Case Study is the first case study of this course.
 
 
