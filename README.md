@@ -1,13 +1,12 @@
 # Lending Club Case Study
-Lending Club Case Study is the first case study of this course.
 In this case study, we plan to apply our knowledge of EDA into use and understand risk analytics in banking and financial services.
 It is intended to showcase how data is analyzed to minimize the risk of losing money while lending to customers.
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
