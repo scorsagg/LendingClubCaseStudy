@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# LendingClubCaseStudy
+> Lending Club Case Study is the first case study of this course.
 
 
 ## Table of Contents
