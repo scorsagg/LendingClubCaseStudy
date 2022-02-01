@@ -21,6 +21,23 @@ Effectively, the institution should be able to decide if the applicant will be a
 
 For this purpose, the dataset used for analysis contains the information about past loan applicants and whether they defaulted or not. Studying this dataset would provide insights into the pattern of defaulters.
 
+**Data Cleaning**
+<br></br>
+As a first step, clean the data. These parameters/guidelines that were used to clean the data.
+<table>
+  <tr>
+    <th>Parameter used</th>
+    <th>Remarks</th>
+  </tr>
+  <tr>
+    <td>Fix Rows</td>
+    <td>No issues found</td>
+  </tr>
+  <tr>
+    <td>Fix Columns</td>
+    <td>No issues found</td>
+  </tr>
+</table>
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
