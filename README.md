@@ -35,7 +35,11 @@ As a first step, clean the data. These parameters/guidelines that were used to c
   </tr>
   <tr>
     <td>Fix Columns</td>
-    <td>No issues found</td>
+    <td>54 Columns had only null(NA) values and were removed.</td>
+  </tr>
+  <tr>
+    <td>Fix Missing Values</td>
+    <td>The emp_title column had 2453 blank values.</td>
   </tr>
 </table>
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
