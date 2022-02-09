@@ -21,54 +21,36 @@ Effectively, the institution should be able to decide if the applicant will be a
 
 For this purpose, the dataset used for analysis contains the information about past loan applicants and whether they defaulted or not. Studying this dataset would provide insights into the pattern of defaulters.
 
-**Data Cleaning**
-<br></br>
-As a first step, clean the data. These parameters/guidelines that were used to clean the data.
-<table>
-  <tr>
-    <th>Parameter used</th>
-    <th>Remarks</th>
-  </tr>
-  <tr>
-    <td>Fix Rows</td>
-    <td>No issues found</td>
-  </tr>
-  <tr>
-    <td>Fix Columns</td>
-    <td>54 Columns had only null(NA) values and were removed.</td>
-  </tr>
-  <tr>
-    <td>Fix Missing Values</td>
-    <td>The emp_title column had 2453 blank values.</td>
-  </tr>
-</table>
+Some of the attributes are
+• Number of years of employment at the time of receiving
+the loan
+• The debt-to-income ratio of the applicant
+• The purpose of taking the loan
+• Study the pattern of the other attributes against the loans
+that were charged-off.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- This number of employees with tenure more than 8 years are the most applicants and in need of the loan.
+- The bivariate analysis complements the univariate analysis that the most applicants with charged-off loans are in the employment range 8 – 10 years.
+- The heat maps show the main purpose and the amount taken as loan that constitute the applicants whose loans were charged-off.
+- The Grade of the loan does not play a part in the defaulting pattern.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Numpy, Pandas, Seaborn, Matplotlib.pyplot.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+Mr. Aditya Bhattacharya for providing an overview of the Case Study and guidance in approacing the task.
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by scorsagg - feel free to contact me!
 
 
 <!-- Optional -->
