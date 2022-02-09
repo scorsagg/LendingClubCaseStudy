@@ -45,7 +45,7 @@ that were charged-off.
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Mr. Aditya Bhattacharya for providing an overview of the Case Study and guidance in approacing the task.
+Mr. Aditya Bhattacharya for providing an overview of the Case Study and guidance in approaching the task.
 
 
 
